@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+*I learned about the <strike> and the <hr> elements as well as about the <meta charset="UTF-8">.
+* Since I had some previous experience with HTML this project has been easy to follow.
+* I wasn't sure if we were supposed to make the line at the bottom of the page as well (on top of the last sentence).
+* I used Google to search for answers.
